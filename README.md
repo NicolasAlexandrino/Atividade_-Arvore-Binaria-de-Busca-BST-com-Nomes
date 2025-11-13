@@ -54,8 +54,8 @@ O projeto foi desenvolvido em **Java** utilizando o **Eclipse IDE**.
   - Pré-ordem e pós-ordem
 - Buscar um nome específico
 ---
-##FInformações
-Aluno: *Nicolas Alexandrino*
-UNIFSA- Engenharia De Software
-Professor: *Anderson Soares*
-Materia: *Estrutura De Dados*
+##Informações
+- Aluno: *Nicolas Alexandrino*
+- UNIFSA- Engenharia De Software
+- Professor: *Anderson Soares*
+- Materia: *Estrutura De Dados*
