@@ -53,22 +53,8 @@ O projeto foi desenvolvido em **Java** utilizando o **Eclipse IDE**.
   - Ordem reversa (decrescente)
   - Pré-ordem e pós-ordem
 - Buscar um nome específico
-- (Extra) Contar quantos nomes estão armazenados
-
 ---
-
-## 🧾 Exemplo de Uso
-
-### Inserindo nomes:
-```java
-ArvoreBinaria arvore = new ArvoreBinaria();
-arvore.inserir("Maria");
-arvore.inserir("Ana");
-arvore.inserir("João");
-arvore.inserir("Pedro");
-arvore.inserir("Bruno");
-arvore.inserir("Carla");
-
+##FInformações
 Aluno: *Nicolas Alexandrino*
 UNIFSA- Engenharia De Software
 Professor: *Anderson Soares*
